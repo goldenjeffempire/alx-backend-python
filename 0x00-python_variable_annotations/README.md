@@ -18,5 +18,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## :pencil: **Author**
 ### :man: Yidnekachew Bantrga
-- [Github](https://github.com/Yidne21)
-- [Linkedin](https://www.linkedin.com/in/yidnekachew-bantrga-801376234/)
+- [Github](https://github.com/goldenjeffempire)
+- [Linkedin](https://www.linkedin.com/in/jeffery-emuodafevware)
+- [Twitter](https://x.com/goldenjeffemp)
